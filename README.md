@@ -7,7 +7,7 @@ The course 'Machine Learning Specialization' consist of 3 courses:
 
 - Supervised Machine Learning: Regression and Classification
 - Advanced Learning Algorithms
-- Unsupervised learning, Recommender Systems and recommender systems
+- Unsupervised learning, Recommender Systems and Reinforcement Learning
 
 # Key Learnings
 
